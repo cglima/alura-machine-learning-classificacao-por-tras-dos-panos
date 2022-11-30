@@ -36,7 +36,7 @@ Baixar o arquivo Customer-Churn.csv do repositório: [ML: Classificação por tr
     - Ativando o ambiente virtual.
 
     ```shell
-    conda activate ./.venv
+    conda activate ../.venv
     ```
 
 2. Ativando o terminal python.
