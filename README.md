@@ -30,7 +30,7 @@ Baixar o arquivo Customer-Churn.csv do repositório: [ML: Classificação por tr
    - É muito importante que o ambiente virtual seja salvo em uma pasta com um nome DIFERENTE de .env. Uma sugestão é .venv.
 
     ```shell
-    conda create -p .venv python=3.8.1
+    conda create -p .venv python=3.9.7
     ```
 
     - Ativando o ambiente virtual.
